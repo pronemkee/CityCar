@@ -366,3 +366,9 @@
   text-align: center;
 }
 
+/* RESPONSIVE */
+@media screen and (max-width: 768px){
+    #footer-paragraph{
+      margin-botom: -20px;
+    }
+}
